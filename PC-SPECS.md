@@ -1,14 +1,14 @@
 # [brugr's](https://brugr.github.io) PC Specifications
 
-* [Main PC](##main-pc)
-  * [Specifications](###specifications)
-  * [Accessories](###accessories)
-* [Laptop](##laptop)
-  * [Specifications](##specifications-1)
-  * [Accessories](###accessories-1)
-* [VR PC](##vr-pc)
-  * [Specifications](##specifications-2)
-  * [VR Headsets](###vr-headsets)
+* [Main PC](#main-pc)
+  * [Specifications](#specifications)
+  * [Accessories](#accessories)
+* [Laptop](#laptop)
+  * [Specifications](#specifications-1)
+  * [Accessories](#accessories-1)
+* [VR PC](#vr-pc)
+  * [Specifications](#specifications-2)
+  * [VR Headsets](#vr-headsets)
 
 ## Main PC
 
