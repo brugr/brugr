@@ -3,11 +3,8 @@
 * [Main PC](#main-pc)
   * [Specifications](#specifications)
   * [Accessories](#accessories)
-* [Laptop](#laptop)
-  * [Specifications](#specifications-1)
-  * [Accessories](#accessories-1)
 * [VR PC](#vr-pc)
-  * [Specifications](#specifications-2)
+  * [Specifications](#specifications-1)
   * [VR Headsets](#vr-headsets)
 
 ## Main PC
@@ -39,26 +36,6 @@ Monitor: ASUS ROG PG279Q
 Second monitor: AOC e2752Vq  
 Webcam: Logitech C310  
 Deskpad: Mionix Alioth XXL
-
-## Laptop
-
-### Specifications
-
-Model: HP Pavilion Gaming 15-cx0812no  
-CPU: Intel i5-8300H  
-iGPU: Intel UHD Graphics 630  
-dGPU: Nvidia GeForce GTX 1050 Ti (Non Max-Q)  
-RAM: Unknown 2x4GB 2666 MHz  
-NVMe SSD: Samsung 970 EVO 500GB  
-Wi-Fi and Bluetooth controller: Realtek RTL8822BE  
-OS: Windows 10 Education 20H2
-
-### Accessories
-
-Mouse: Logitech G305
-Headphones: Bose QuietComfort 35 II (Silver)
-Earbuds: Shure SE215
-Deskpad (at home): Glorious XXL
 
 ## VR PC
 
