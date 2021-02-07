@@ -1,11 +1,14 @@
 # [brugr's](https://brugr.github.io) PC Specifications
 
-* [Main PC](#main-pc)
-  * [Specifications](#specifications)
-  * [Accessories](#accessories)
-* [VR PC](#vr-pc)
-  * [Specifications](#specifications-1)
-  * [VR Headsets](#vr-headsets)
+- [Main PC](#main-pc)
+  - [Specifications](#specifications)
+  - [Accessories](#accessories)
+- [Laptop](#laptop)
+  - [Specifications](#specifications-1) 
+  - [Accessories](#accessories-1)
+- [VR PC](#vr-pc)
+  - [Specifications](#specifications-2)
+  - [VR Headsets](#vr-headsets)
 
 ## Main PC
 
@@ -36,6 +39,26 @@ Monitor: ASUS ROG PG279Q
 Second monitor: AOC e2752Vq  
 Webcam: Logitech C310  
 Deskpad: Mionix Alioth XXL
+
+## Laptop
+
+### Specifications
+
+Model: Lenovo Z50-70  
+CPU: Intel i5-4210U  
+iGPU: Intel HD Graphics 4440  
+dGPU: Nvidia GeForce 840M (Disabled in BIOS)  
+RAM: Samsung 1x8GB 1600 MHz  
+SSD: Crucial MX300 525GB  
+Wi-Fi and Bluetooth controller: Intel Wireless-AC 3160  
+OS: macOS Big Sur 11.1
+
+### Accessories
+
+Mouse: Logitech G305  
+Headphones: Bose QuietComfort 35 II  
+Earbuds: Shure SE215  
+Deskpad (at home): Glorious XXL
 
 ## VR PC
 
