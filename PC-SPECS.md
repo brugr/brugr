@@ -51,7 +51,7 @@ dGPU: Nvidia GeForce 840M (Disabled in BIOS)
 RAM: Samsung 1x8GB 1600 MHz  
 SSD: Crucial MX300 525GB  
 Wi-Fi and Bluetooth controller: Intel Wireless-AC 3160  
-OS: macOS Big Sur 11.1
+OS: Arch Linux
 
 ### Accessories
 
