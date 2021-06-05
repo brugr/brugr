@@ -66,7 +66,7 @@ Deskpad (at home): Glorious XXL
 
 CPU: AMD Ryzen 3800x  
 GPU: ASUS STRIX Geforce RTX 2080 Super (White)  
-RAM: 2x8GB Corsair Vengeance RGB PRO 3600MHz/CL18  
+RAM: 4x8GB Corsair Vengeance RGB PRO 3600MHz/CL18  
 AIO Cooler: ASUS ROG RYUIJIN 360mm  
 Motherboard: ASUS PRIME X570-PRO  
 Case: Lian Li PC-O11 Dynamic (White)  
