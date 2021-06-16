@@ -26,7 +26,7 @@ HDD: Seagate Barracuda 3TB
 Capture Card: Elgato HD60 Pro  
 RGB Lightning: NZXT Hue+  
 PSU: XFX 750W  
-OS: Windows 10 Pro Education 1909
+OS: Windows 10 Education 21H1
 
 ### Accessories
 
