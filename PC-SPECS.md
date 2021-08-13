@@ -34,7 +34,7 @@ Mouse: Glorious Model O (Matte White)
 Keyboard: Cooler Master SK650  
 Macropad: Elgato Stream Deck  
 Headphones: Bose QuietComfort 35 II  
-Earbuds: Shure SE215  
+Earbuds: Apple Earpods  
 Monitor: ASUS ROG PG279Q  
 Second monitor: AOC e2752Vq  
 Webcam: Logitech C310  
@@ -51,13 +51,13 @@ dGPU: Nvidia GeForce 840M (Disabled in BIOS)
 RAM: Samsung 1x8GB 1600 MHz  
 SSD: Crucial MX300 525GB  
 Wi-Fi and Bluetooth controller: Intel Wireless-AC 3160  
-OS: macOS 11 Big Sur
+OS: Pop!_OS 21.04
 
 ### Accessories
 
 Mouse: Logitech G305  
 Headphones: Bose QuietComfort 35 II  
-Earbuds: Shure SE215  
+Earbuds: Apple Earpods  
 Deskpad (at home): Glorious XXL
 
 ## VR PC
