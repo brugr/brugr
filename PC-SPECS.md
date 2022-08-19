@@ -19,17 +19,16 @@ AIO Cooler: ASUS ROG RYUIJIN 360mm
 Motherboard: ASUS PRIME X570-PRO  
 Case: Lian Li PC-O11 Dynamic (White)  
 NVMe SSD: Corsair Force MP600 1TB  
-HDD Cache: Samsung 960 EVO 250GB  
-HDD: Seagate Barracuda 3TB  
+NVMe SSD 2: Samsung 960 EVO 250GB  
 Capture Card: Elgato HD60 Pro  
 Fans: 6x Corsair QL120 RGB  
 PSU: Corsair RM850x V2  
-OS: Windows 10 Education 21H2
+OS: Nobara Linux 36 with GNOME
 
 ### Accessories
 
-Mouse: Glorious Model O (Matte White)  
-Keyboard: Cooler Master SK650  
+Mouse: Xtrfy MZ1 
+Keyboard: Keychron K8
 Macropad: Elgato Stream Deck  
 Headphones: Bose QuietComfort 35 II  
 Earbuds: Apple Earpods  
@@ -42,14 +41,7 @@ Deskpad: Mionix Alioth XXL
 
 ### Specifications
 
-Model: Lenovo Z50-70  
-CPU: Intel i5-4210U  
-iGPU: Intel HD Graphics 4440  
-dGPU: Nvidia GeForce 840M (Disabled in BIOS)  
-RAM: Samsung 1x8GB 1600 MHz  
-SSD: Crucial MX300 525GB  
-Wi-Fi and Bluetooth controller: Intel Wireless-AC 3160  
-OS: Pop!_OS 21.04
+back soon :)
 
 ### Accessories
 
