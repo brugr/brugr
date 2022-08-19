@@ -27,8 +27,8 @@ OS: Nobara Linux 36 with GNOME
 
 ### Accessories
 
-Mouse: Xtrfy MZ1 
-Keyboard: Keychron K8
+Mouse: Xtrfy MZ1  
+Keyboard: Keychron K8  
 Macropad: Elgato Stream Deck  
 Headphones: Bose QuietComfort 35 II  
 Earbuds: Apple Earpods  
