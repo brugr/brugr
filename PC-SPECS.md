@@ -23,7 +23,7 @@ NVMe SSD 2: Samsung 960 EVO 250GB
 Capture Card: Elgato HD60 Pro  
 Fans: 6x Corsair QL120 RGB  
 PSU: Corsair RM850x V2  
-OS: Nobara Linux 36 with GNOME
+OS: Windows 11 21H2 Education
 
 ### Accessories
 
