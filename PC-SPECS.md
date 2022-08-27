@@ -41,7 +41,13 @@ Deskpad: Mionix Alioth XXL
 
 ### Specifications
 
-back soon :)
+Laptop: Dell Latitude 3380  
+CPU: Intel i3-6006U  
+GPU: Intel HD 520  
+RAM: 8GB  
+SSD: Crucial MX300 525GB  
+WiFi Card: Qualcomm Atheros QCA6174  
+OS: Fedora Silverblue 36
 
 ### Accessories
 
