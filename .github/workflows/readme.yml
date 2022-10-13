@@ -1,7 +1,6 @@
 name: Update readme
 
 on:
-  push:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
@@ -21,16 +20,11 @@ jobs:
         with:
           template: 'README.gtpl'
           writeTo: 'README.md'
-      
-      - name: Update WakaTime stats 
-        uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      
+
       - name: Commit README
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           commit_message: 'github-actions: update README.md'
+      
