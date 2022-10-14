@@ -8,11 +8,11 @@
 
 ### 👷 Repos with latest commits
 
+- [brugr/dotfiles](https://github.com/brugr/dotfiles) - Dotfiles for Linux (and MacOS) deployed using stow
 - [brugr/config](https://github.com/brugr/config) - My configs for different programs
 - [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
 - [brugr/vanillish-autoupdater](https://github.com/brugr/vanillish-autoupdater) - Auto-updater for Vanillish, a Minecraft modpack
 - [brugr/website](https://github.com/brugr/website) - A simple, Linktree-esque site, deployed using an NGINX Docker container
-- [brugr/musicbot-docker](https://github.com/brugr/musicbot-docker) - A Docker image for jagrosh&#39;s Discord MusicBot
 ### 🌱 My latest projects
 
 - [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
