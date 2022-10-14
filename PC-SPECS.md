@@ -23,15 +23,15 @@ NVMe SSD 2: Samsung 960 EVO 250GB
 Capture Card: Elgato HD60 Pro  
 Fans: 6x Corsair QL120 RGB  
 PSU: Corsair RM850x V2  
-OS: Windows 11 21H2 Education
+OS: Nobara Linux 36
 
 ### Accessories
 
 Mouse: Xtrfy MZ1  
 Keyboard: Keychron K8  
 Macropad: Elgato Stream Deck  
-Headphones: Bose QuietComfort 35 II  
-Earbuds: Apple Earpods  
+Earbuds: Apple Earpods
+Bluetooth Earbuds: Apple Airpods Pro (gen 2)
 Monitor: ASUS ROG PG279Q  
 Second Monitor: AOC e2752Vq  
 Webcam: Logitech C310  
@@ -52,8 +52,8 @@ OS: Fedora Silverblue 36
 ### Accessories
 
 Mouse: Logitech G305  
-Headphones: Bose QuietComfort 35 II  
 Earbuds: Apple Earpods  
+Bluetooth Earbuds: Apple Airpods Pro (gen 2)
 
 ## VR Gear
 
