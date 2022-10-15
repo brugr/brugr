@@ -8,11 +8,11 @@
 
 ### 👷 Repos with latest commits
 
-- [brugr/dotfiles](https://github.com/brugr/dotfiles) - Dotfiles for Linux (and MacOS) deployed using stow
+- [brugr/website](https://github.com/brugr/website) - A simple, Linktree-esque site, deployed using an NGINX Docker container
 - [brugr/config](https://github.com/brugr/config) - My configs for different programs
+- [brugr/dotfiles](https://github.com/brugr/dotfiles) - Dotfiles for Linux (and MacOS) deployed using stow
 - [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
 - [brugr/vanillish-autoupdater](https://github.com/brugr/vanillish-autoupdater) - Auto-updater for Vanillish, a Minecraft modpack
-- [brugr/website](https://github.com/brugr/website) - A simple, Linktree-esque site, deployed using an NGINX Docker container
 ### 🌱 My latest projects
 
 - [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
@@ -20,8 +20,8 @@
 - [brugr/config](https://github.com/brugr/config) - My configs for different programs
 ### ⭐ Recent Stars
 
+- [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH
 - [rafaelmardojai/firefox-gnome-theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI
-- [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
-- [digitalec/deemon](https://github.com/digitalec/deemon) - Monitor specified artists for new releases
