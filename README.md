@@ -8,20 +8,20 @@
 
 ### 👷 Repos with latest commits
 
+- [brugr/yubioath-flatpak-fedora-patch](https://github.com/brugr/yubioath-flatpak-fedora-patch) - 
 - [brugr/website](https://github.com/brugr/website) - A simple, Linktree-esque site, deployed using an NGINX Docker container
 - [brugr/config](https://github.com/brugr/config) - My configs for different programs
 - [brugr/dotfiles](https://github.com/brugr/dotfiles) - Dotfiles for Linux (and MacOS) deployed using stow
 - [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
-- [brugr/vanillish-autoupdater](https://github.com/brugr/vanillish-autoupdater) - Auto-updater for Vanillish, a Minecraft modpack
 ### 🌱 My latest projects
 
+- [brugr/yubioath-flatpak-fedora-patch](https://github.com/brugr/yubioath-flatpak-fedora-patch) - 
 - [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
 - [brugr/vanillish-autoupdater](https://github.com/brugr/vanillish-autoupdater) - Auto-updater for Vanillish, a Minecraft modpack
-- [brugr/config](https://github.com/brugr/config) - My configs for different programs
 ### ⭐ Recent Stars
 
+- [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 - [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
 - [kuroehanako/breeze-extended](https://github.com/kuroehanako/breeze-extended) - Breeze icons for other DEs
 - [delphiki/AirStatus](https://github.com/delphiki/AirStatus) - Check AirPods battery levels on Linux
 - [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A custom discord client that supports streaming with audio on Linux.
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
