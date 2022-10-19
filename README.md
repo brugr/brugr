@@ -20,8 +20,8 @@
 - [brugr/vanillish-autoupdater](https://github.com/brugr/vanillish-autoupdater) - Auto-updater for Vanillish, a Minecraft modpack
 ### ⭐ Recent Stars
 
-- [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
-- [metafates/mangal](https://github.com/metafates/mangal) - 📖 The most advanced (yet simple) cli manga downloader in the entire universe! Lua scrapers, export formats, anilist integration, fancy TUI and more!
-- [kuroehanako/breeze-extended](https://github.com/kuroehanako/breeze-extended) - Breeze icons for other DEs
-- [delphiki/AirStatus](https://github.com/delphiki/AirStatus) - Check AirPods battery levels on Linux
-- [maltejur/discord-screenaudio](https://github.com/maltejur/discord-screenaudio) - A custom discord client that supports streaming with audio on Linux.
+- [joeknock90/Single-GPU-Passthrough](https://github.com/joeknock90/Single-GPU-Passthrough) - 
+- [ge9/IddSampleDriver](https://github.com/ge9/IddSampleDriver) - Add virtual monitors to your windows 10 device! Works with Oculus software, obs, and any desktop sharing software
+- [mbilker/vgpu_unlock-rs](https://github.com/mbilker/vgpu_unlock-rs) -  Unlock vGPU functionality for consumer grade GPUs
+- [DualCoder/vgpu_unlock](https://github.com/DualCoder/vgpu_unlock) - Unlock vGPU functionality for consumer grade GPUs.
+- [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
