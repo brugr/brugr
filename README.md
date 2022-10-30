@@ -20,8 +20,8 @@
 - [brugr/vanillish-autoupdater](https://github.com/brugr/vanillish-autoupdater) - Auto-updater for Vanillish, a Minecraft modpack
 ### ⭐ Recent Stars
 
+- [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [tkashkin/Adwaita-for-Steam](https://github.com/tkashkin/Adwaita-for-Steam) - A skin to make Steam look more like a native GNOME app
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - https://crates.io/crates/topgrade-rs/
 - [marlonrichert/zsh-snap](https://github.com/marlonrichert/zsh-snap) - ⚡️ Znap! Fast, easy-to-use tools for Zsh dotfiles &amp; plugins, plus git repos
-- [joeknock90/Single-GPU-Passthrough](https://github.com/joeknock90/Single-GPU-Passthrough) - 
