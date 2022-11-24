@@ -23,15 +23,15 @@ NVMe SSD 2: Samsung 960 EVO 250GB
 Capture Card: Elgato HD60 Pro  
 Fans: 6x Corsair QL120 RGB  
 PSU: Corsair RM850x V2  
-OS: Nobara Linux 36
+OS: openSUSE MicroOS (Tumbleweed with GNOME)
 
 ### Accessories
 
 Mouse: Xtrfy MZ1  
 Keyboard: Keychron K8  
 Macropad: Elgato Stream Deck  
-Earbuds: Apple Earpods
-Bluetooth Earbuds: Apple Airpods Pro (gen 2)
+Earbuds: Apple Earpods  
+Bluetooth Earbuds: Apple Airpods Pro (gen 2)  
 Monitor: ASUS ROG PG279Q  
 Second Monitor: AOC e2752Vq  
 Webcam: Logitech C310  
@@ -47,7 +47,7 @@ GPU: Intel HD 520
 RAM: 8GB  
 SSD: Crucial MX300 525GB  
 WiFi Card: Qualcomm Atheros QCA6174  
-OS: Fedora Silverblue 36
+OS: Nobara 36 GNOME
 
 ### Accessories
 
