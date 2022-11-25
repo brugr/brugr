@@ -47,7 +47,7 @@ GPU: Intel HD 520
 RAM: 8GB  
 SSD: Crucial MX300 525GB  
 WiFi Card: Qualcomm Atheros QCA6174  
-OS: Nobara 36 GNOME
+OS: Fedora Kinoite 37
 
 ### Accessories
 
