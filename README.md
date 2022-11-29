@@ -8,9 +8,9 @@
 
 ### 👷 Repos with latest commits
 
+- [brugr/dotfiles](https://github.com/brugr/dotfiles) - Dotfiles for Linux (and MacOS) deployed using stow
 - [brugr/website](https://github.com/brugr/website) - A simple, Linktree-esque site, deployed using an NGINX Docker container
 - [brugr/yubioath-flatpak-fedora-patch](https://github.com/brugr/yubioath-flatpak-fedora-patch) - 
-- [brugr/dotfiles](https://github.com/brugr/dotfiles) - Dotfiles for Linux (and MacOS) deployed using stow
 - [flathub/com.yubico.yubioath](https://github.com/flathub/com.yubico.yubioath) - 
 - [brugr/config](https://github.com/brugr/config) - My configs for different programs
 ### 🌱 My latest projects
