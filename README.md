@@ -10,14 +10,14 @@
 
 - [brugr/dotfiles](https://github.com/brugr/dotfiles) - Dotfiles for Linux (and MacOS) deployed using stow
 - [brugr/website](https://github.com/brugr/website) - A simple, Linktree-esque site, deployed using an NGINX Docker container
-- [brugr/yubioath-flatpak-fedora-patch](https://github.com/brugr/yubioath-flatpak-fedora-patch) - 
 - [flathub/com.yubico.yubioath](https://github.com/flathub/com.yubico.yubioath) - 
 - [brugr/config](https://github.com/brugr/config) - My configs for different programs
+- [brugr/vanillish-autoupdater](https://github.com/brugr/vanillish-autoupdater) - Auto-updater for Vanillish, a Minecraft modpack
 ### 🌱 My latest projects
 
-- [brugr/yubioath-flatpak-fedora-patch](https://github.com/brugr/yubioath-flatpak-fedora-patch) - 
 - [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
 - [brugr/vanillish-autoupdater](https://github.com/brugr/vanillish-autoupdater) - Auto-updater for Vanillish, a Minecraft modpack
+- [brugr/config](https://github.com/brugr/config) - My configs for different programs
 ### ⭐ Recent Stars
 
 - [GeopJr/DNOME](https://github.com/GeopJr/DNOME) - Adwaita-inspired Discord Theme
