@@ -20,8 +20,8 @@
 - [brugr/config](https://github.com/brugr/config) - My configs for different programs
 ### ⭐ Recent Stars
 
+- [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 - [GeopJr/DNOME](https://github.com/GeopJr/DNOME) - Adwaita-inspired Discord Theme
 - [sultim-t/vkquake-rt](https://github.com/sultim-t/vkquake-rt) - 
 - [castrojo/awesome-immutable](https://github.com/castrojo/awesome-immutable) - A list of resources for people who want to investigate image-based Linux desktops
-- [witalihirsch/Mono-gtk-theme](https://github.com/witalihirsch/Mono-gtk-theme) - Mono Theme for Gnome
