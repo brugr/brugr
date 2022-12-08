@@ -8,20 +8,20 @@
 
 ### 👷 Repos with latest commits
 
+- [brugr/link-site](https://github.com/brugr/link-site) - A simple, Linktree-esque site, deployed using an NGINX Docker container
+- [brugr/website](https://github.com/brugr/website) - 
 - [brugr/dotfiles](https://github.com/brugr/dotfiles) - Dotfiles for Linux (and MacOS) deployed using stow
-- [brugr/website](https://github.com/brugr/website) - A simple, Linktree-esque site, deployed using an NGINX Docker container
 - [flathub/com.yubico.yubioath](https://github.com/flathub/com.yubico.yubioath) - 
 - [brugr/config](https://github.com/brugr/config) - My configs for different programs
-- [brugr/vanillish-autoupdater](https://github.com/brugr/vanillish-autoupdater) - Auto-updater for Vanillish, a Minecraft modpack
 ### 🌱 My latest projects
 
+- [brugr/website](https://github.com/brugr/website) - 
 - [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
 - [brugr/vanillish-autoupdater](https://github.com/brugr/vanillish-autoupdater) - Auto-updater for Vanillish, a Minecraft modpack
-- [brugr/config](https://github.com/brugr/config) - My configs for different programs
 ### ⭐ Recent Stars
 
+- [coreos/layering-examples](https://github.com/coreos/layering-examples) - 
+- [castrojo/ublue-image](https://github.com/castrojo/ublue-image) - A familiar(ish) Ubuntu desktop for Fedora Silverblue 
 - [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 - [GeopJr/DNOME](https://github.com/GeopJr/DNOME) - Adwaita-inspired Discord Theme
-- [sultim-t/vkquake-rt](https://github.com/sultim-t/vkquake-rt) - 
-- [castrojo/awesome-immutable](https://github.com/castrojo/awesome-immutable) - A list of resources for people who want to investigate image-based Linux desktops
