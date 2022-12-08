@@ -8,16 +8,16 @@
 
 ### 👷 Repos with latest commits
 
+- [brugr/hikami](https://github.com/brugr/hikami) - A custom Silverblue image
 - [brugr/link-site](https://github.com/brugr/link-site) - A simple, Linktree-esque site, deployed using an NGINX Docker container
-- [brugr/website](https://github.com/brugr/website) - 
+- [brugr/website](https://github.com/brugr/website) - A blog made with Hugo
 - [brugr/dotfiles](https://github.com/brugr/dotfiles) - Dotfiles for Linux (and MacOS) deployed using stow
 - [flathub/com.yubico.yubioath](https://github.com/flathub/com.yubico.yubioath) - 
-- [brugr/config](https://github.com/brugr/config) - My configs for different programs
 ### 🌱 My latest projects
 
-- [brugr/website](https://github.com/brugr/website) - 
+- [brugr/hikami](https://github.com/brugr/hikami) - A custom Silverblue image
+- [brugr/website](https://github.com/brugr/website) - A blog made with Hugo
 - [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
-- [brugr/vanillish-autoupdater](https://github.com/brugr/vanillish-autoupdater) - Auto-updater for Vanillish, a Minecraft modpack
 ### ⭐ Recent Stars
 
 - [coreos/layering-examples](https://github.com/coreos/layering-examples) - 
