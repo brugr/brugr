@@ -20,8 +20,8 @@
 - [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
 ### ⭐ Recent Stars
 
+- [ublue-os/awesome-custom-images](https://github.com/ublue-os/awesome-custom-images) - Awesome list of people&#39;s public ostree-enabled OCI container images
 - [VGPU-Community-Drivers/vGPU-Unlock-patcher](https://github.com/VGPU-Community-Drivers/vGPU-Unlock-patcher) - vGPU-Unlock-patcher
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [coreos/layering-examples](https://github.com/coreos/layering-examples) - 
 - [castrojo/ublue-image](https://github.com/castrojo/ublue-image) - A familiar(ish) Ubuntu desktop for Fedora Silverblue 
-- [526avijitgupta/gokarna](https://github.com/526avijitgupta/gokarna) - A minimal opinionated theme for Hugo
