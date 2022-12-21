@@ -8,20 +8,20 @@
 
 ### 👷 Repos with latest commits
 
-- [brugr/website](https://github.com/brugr/website) - A blog made with Hugo
 - [brugr/hikami](https://github.com/brugr/hikami) - A custom Silverblue image
+- [brugr/toolbox](https://github.com/brugr/toolbox) - 
+- [brugr/website](https://github.com/brugr/website) - A blog made with Hugo
 - [brugr/link-site](https://github.com/brugr/link-site) - A simple, Linktree-esque site, deployed using an NGINX Docker container
 - [brugr/dotfiles](https://github.com/brugr/dotfiles) - Dotfiles for Linux (and MacOS) deployed using stow
-- [flathub/com.yubico.yubioath](https://github.com/flathub/com.yubico.yubioath) - 
 ### 🌱 My latest projects
 
+- [brugr/toolbox](https://github.com/brugr/toolbox) - 
 - [brugr/hikami](https://github.com/brugr/hikami) - A custom Silverblue image
 - [brugr/website](https://github.com/brugr/website) - A blog made with Hugo
-- [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
 ### ⭐ Recent Stars
 
+- [CheariX/silverblue-akmods-keys](https://github.com/CheariX/silverblue-akmods-keys) - Fedora Silverblue with SecureBoot enabled and working akmods such as akmod-nvidia or akmod-VirtualBox.
 - [ublue-os/awesome-custom-images](https://github.com/ublue-os/awesome-custom-images) - Awesome list of people&#39;s public ostree-enabled OCI container images
 - [VGPU-Community-Drivers/vGPU-Unlock-patcher](https://github.com/VGPU-Community-Drivers/vGPU-Unlock-patcher) - vGPU-Unlock-patcher
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
 - [coreos/layering-examples](https://github.com/coreos/layering-examples) - 
-- [castrojo/ublue-image](https://github.com/castrojo/ublue-image) - A familiar(ish) Ubuntu desktop for Fedora Silverblue 
