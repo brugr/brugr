@@ -8,11 +8,11 @@
 
 ### 👷 Repos with latest commits
 
+- [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
+- [brugr/musicbot-docker](https://github.com/brugr/musicbot-docker) - A Docker image for jagrosh&#39;s Discord MusicBot
 - [brugr/hikami](https://github.com/brugr/hikami) - A custom Silverblue image
 - [brugr/toolbox](https://github.com/brugr/toolbox) - 
 - [brugr/website](https://github.com/brugr/website) - A blog made with Hugo
-- [brugr/link-site](https://github.com/brugr/link-site) - A simple, Linktree-esque site, deployed using an NGINX Docker container
-- [brugr/dotfiles](https://github.com/brugr/dotfiles) - Dotfiles for Linux (and MacOS) deployed using stow
 ### 🌱 My latest projects
 
 - [brugr/toolbox](https://github.com/brugr/toolbox) - 
