@@ -20,8 +20,8 @@
 - [brugr/website](https://github.com/brugr/website) - A blog made with Hugo
 ### ⭐ Recent Stars
 
+- [maximbaz/yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)
 - [CheariX/silverblue-akmods-keys](https://github.com/CheariX/silverblue-akmods-keys) - Fedora Silverblue with SecureBoot enabled and working akmods such as akmod-nvidia or akmod-VirtualBox.
 - [ublue-os/awesome-custom-images](https://github.com/ublue-os/awesome-custom-images) - Awesome list of people&#39;s public ostree-enabled OCI container images
 - [VGPU-Community-Drivers/vGPU-Unlock-patcher](https://github.com/VGPU-Community-Drivers/vGPU-Unlock-patcher) - vGPU-Unlock-patcher
 - [mjakeman/extension-manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions.
-- [coreos/layering-examples](https://github.com/coreos/layering-examples) - 
