@@ -8,14 +8,14 @@
 
 ### 👷 Repos with latest commits
 
+- [brugr/toolbox](https://github.com/brugr/toolbox) - Arch container to use with Toolbx or Distrobox
 - [brugr/deemon-docker](https://github.com/brugr/deemon-docker) - Very simple Docker container for deemon
 - [brugr/musicbot-docker](https://github.com/brugr/musicbot-docker) - A Docker image for jagrosh&#39;s Discord MusicBot
 - [brugr/hikami](https://github.com/brugr/hikami) - A custom Silverblue image
-- [brugr/toolbox](https://github.com/brugr/toolbox) - 
 - [brugr/website](https://github.com/brugr/website) - A blog made with Hugo
 ### 🌱 My latest projects
 
-- [brugr/toolbox](https://github.com/brugr/toolbox) - 
+- [brugr/toolbox](https://github.com/brugr/toolbox) - Arch container to use with Toolbx or Distrobox
 - [brugr/hikami](https://github.com/brugr/hikami) - A custom Silverblue image
 - [brugr/website](https://github.com/brugr/website) - A blog made with Hugo
 ### ⭐ Recent Stars
