@@ -15,5 +15,5 @@
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Ashwatthaamaa/Neuwaita](https://github.com/Ashwatthaamaa/Neuwaita) - A neumorphic take on adwaita theme
 - [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
-- [cloudishBenne/protonup-ng](https://github.com/cloudishBenne/protonup-ng) - Install and Update Proton-GE
+- [protonup-ng/protonup-ng](https://github.com/protonup-ng/protonup-ng) - Install and Update Proton-GE
 - [maximbaz/yubikey-touch-detector](https://github.com/maximbaz/yubikey-touch-detector) - A tool to detect when your YubiKey is waiting for a touch (to send notification or display a visual indicator on the screen)
