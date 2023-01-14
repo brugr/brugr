@@ -12,8 +12,8 @@
 - [brugr/website](https://github.com/brugr/website) - Blog made with Hugo
 ### ⭐ Recent Stars
 
+- [Frostbitten-jello/Skeuowaita](https://github.com/Frostbitten-jello/Skeuowaita) - A skeuomorphic take on adwaita theme.
+- [toolbx-images/images](https://github.com/toolbx-images/images) - Community maintained container images to use with toolbx (and distrobox)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Ashwatthaamaa/Neuwaita](https://github.com/Ashwatthaamaa/Neuwaita) - A neumorphic take on adwaita theme
-- [hanzala123/arch2appimage](https://github.com/hanzala123/arch2appimage) - This is a python script that downloads Arch Linux packages (Official/Chaotic AUR) and converts to an AppImage executable
-- [protonup-ng/protonup-ng](https://github.com/protonup-ng/protonup-ng) - Install and Update Proton-GE
