@@ -12,7 +12,7 @@
 - [brugr/website](https://github.com/brugr/website) - Blog made with Hugo
 ### ⭐ Recent Stars
 
-- [Frostbitten-jello/Skeuowaita](https://github.com/Frostbitten-jello/Skeuowaita) - A skeuomorphic take on adwaita theme.
+- [Frostbitten-jello/Skeuowaita](https://github.com/Frostbitten-jello/Skeuowaita) - A different take on adwaita theme.
 - [toolbx-images/images](https://github.com/toolbx-images/images) - Community maintained container images to use with toolbx (and distrobox)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
