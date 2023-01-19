@@ -12,8 +12,8 @@
 - [brugr/website](https://github.com/brugr/website) - Blog made with Hugo
 ### ⭐ Recent Stars
 
+- [imreyesjorge/root-startpage](https://github.com/imreyesjorge/root-startpage) - A simple and clean startpage 🌟
 - [Frostbitten-jello/Skeuowaita](https://github.com/Frostbitten-jello/Skeuowaita) - A different take on adwaita theme.
 - [toolbx-images/images](https://github.com/toolbx-images/images) - Community maintained container images to use with toolbx (and distrobox)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
-- [Ashwatthaamaa/Neuwaita](https://github.com/Ashwatthaamaa/Neuwaita) - A neumorphic take on adwaita theme
