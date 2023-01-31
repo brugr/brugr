@@ -12,8 +12,8 @@
 - [brugr/website](https://github.com/brugr/website) - Blog made with Hugo
 ### ⭐ Recent Stars
 
+- [d4rken-org/capod](https://github.com/d4rken-org/capod) - A companion app for AirPods on Android.
 - [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
 - [imreyesjorge/root-startpage](https://github.com/imreyesjorge/root-startpage) - A simple and clean startpage 🌟
 - [Frostbitten-jello/Skeuowaita](https://github.com/Frostbitten-jello/Skeuowaita) - A different take on adwaita theme.
 - [toolbx-images/images](https://github.com/toolbx-images/images) - Community maintained container images to use with toolbx (and distrobox)
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
