@@ -12,8 +12,8 @@
 - [brugr/hikami](https://github.com/brugr/hikami) - Custom Silverblue image
 ### ⭐ Recent Stars
 
+- [essembeh/gnome-extensions-cli](https://github.com/essembeh/gnome-extensions-cli) - Command line tool to manage your Gnome Shell extensions
 - [Foldex/r2mod_cli](https://github.com/Foldex/r2mod_cli) - A Risk of Rain 2 Mod Manager in Bash
 - [auyer/Protonup-rs](https://github.com/auyer/Protonup-rs) - Install and Update Proton-GE with Rust
 - [ashos/ashos](https://github.com/ashos/ashos) - The immutable tree-shaped meta-distribution
 - [d4rken-org/capod](https://github.com/d4rken-org/capod) - A companion app for AirPods on Android.
-- [Kazhnuz/awesome-gnome](https://github.com/Kazhnuz/awesome-gnome) - A curated list of awesome apps, extensions, modules, themes and tools for the Gnome Desktop Environment.
