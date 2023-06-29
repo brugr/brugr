@@ -12,8 +12,8 @@
 - [brugr/toolbox](https://github.com/brugr/toolbox) - Arch container to use with Toolbx or Distrobox
 ### ⭐ Recent Stars
 
+- [VRLabs/Dynamic-Bones-Stub](https://github.com/VRLabs/Dynamic-Bones-Stub) - Stub package for the VRChat and CVR whitelisted Dynamic Bones components.
 - [vrcx-team/VRCX](https://github.com/vrcx-team/VRCX) - Friendship management tool for VRChat
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [fholger/vrperfkit](https://github.com/fholger/vrperfkit) - VR Performance Toolkit
 - [bluskript/xsoverlay-notifier](https://github.com/bluskript/xsoverlay-notifier) - Sends all windows notifications to XSOverlay
-- [ihaveamac/custom-install](https://github.com/ihaveamac/custom-install) - Installs a title directly to an SD card for the Nintendo 3DS
