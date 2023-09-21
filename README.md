@@ -12,8 +12,8 @@
 - [brugr/toolbox](https://github.com/brugr/toolbox) - Arch container to use with Toolbx or Distrobox
 ### ⭐ Recent Stars
 
+- [JLChnToZ/vrctzhologram](https://github.com/JLChnToZ/vrctzhologram) - A hologram earth gimmick asset for VRChat SDK3 worlds which shows everyone&#39;s timezone, approximate location and their local time.
+- [normalizedcrow/LavaLamp](https://github.com/normalizedcrow/LavaLamp) - 
 - [Raphiiko/OyasumiVR](https://github.com/Raphiiko/OyasumiVR) - 🥽 VR Sleeping Utilities
 - [VolcanicArts/VRCOSC](https://github.com/VolcanicArts/VRCOSC) - Modular OSC program creator, toolkit, and router made for VRChat. Show your heartrate, time, hardware stats, speech to text, control Spotify, and more! Includes drag-and-drop prefabs for your avatar.
 - [VRLabs/Dynamic-Bones-Stub](https://github.com/VRLabs/Dynamic-Bones-Stub) - Stub package for the VRChat and CVR whitelisted Dynamic Bones components.
-- [vrcx-team/VRCX](https://github.com/vrcx-team/VRCX) - Friendship management tool for VRChat
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
