@@ -12,8 +12,8 @@
 - [brugr/toolbox](https://github.com/brugr/toolbox) - Arch container to use with Toolbx or Distrobox
 ### ⭐ Recent Stars
 
+- [Minty-Labs/WindowsXSO](https://github.com/Minty-Labs/WindowsXSO) - Windows to XSOverlay Notification Relay program
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [MunifiSense/VRChat-Build-Size-Viewer](https://github.com/MunifiSense/VRChat-Build-Size-Viewer) - A script for viewing the build size for VRC worlds and avatars after building.
 - [LuisThiamNye/ButteryTaskbar2](https://github.com/LuisThiamNye/ButteryTaskbar2) - Hide the taskbar completely when the Start Menu is not open. 
 - [JLChnToZ/vrctzhologram](https://github.com/JLChnToZ/vrctzhologram) - A hologram earth gimmick asset for VRChat SDK3 worlds which shows everyone&#39;s timezone, approximate location and their local time.
-- [normalizedcrow/LavaLamp](https://github.com/normalizedcrow/LavaLamp) - 
