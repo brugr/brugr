@@ -12,8 +12,8 @@
 - [brugr/toolbox](https://github.com/brugr/toolbox) - Arch container to use with Toolbx or Distrobox
 ### ⭐ Recent Stars
 
+- [dreiekk/OpenVR-Autostarter](https://github.com/dreiekk/OpenVR-Autostarter) - ⬆️ Launch and stop programs with OpenVR / SteamVR
+- [ju1ce/Simple-OpenVR-Bridge-Driver](https://github.com/ju1ce/Simple-OpenVR-Bridge-Driver) - A bridge driver to connect SteamVR to other programs and a program to use a hip tracker for locomotion direction.
 - [OopyDoopy/ReShade-Centralized](https://github.com/OopyDoopy/ReShade-Centralized) - 
 - [Raicuparta/rai-pal](https://github.com/Raicuparta/rai-pal) - Mod manager for universal game mods
 - [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.3)
-- [SummerSigh/ProjectBabble](https://github.com/SummerSigh/ProjectBabble) - An Opensource mouth tracking method for VR 
-- [LeoRH123/Windows-11-Cursor-Concept-Pro-v2.0](https://github.com/LeoRH123/Windows-11-Cursor-Concept-Pro-v2.0) - 
