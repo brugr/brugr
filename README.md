@@ -3,8 +3,6 @@
 - [brugr/website](https://github.com/brugr/website) - Blog made with Hugo
 - [brugr/tavern](https://github.com/brugr/tavern) - A Minecraft modpack
 - [brugr/musicbot-docker](https://github.com/brugr/musicbot-docker) - Docker image for jagrosh&#39;s Discord MusicBot
-- [brugr/toolbox](https://github.com/brugr/toolbox) - Arch container to use with Toolbx or Distrobox
-- [brugr/dotfiles](https://github.com/brugr/dotfiles) - dots!
 ### 🌱 My latest projects
 
 - [brugr/tavern](https://github.com/brugr/tavern) - A Minecraft modpack
