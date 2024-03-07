@@ -1,5 +1,6 @@
 ### 👷 Repos with latest commits
 
+- [brugr/dotfiles](https://github.com/brugr/dotfiles) - dots!
 - [brugr/website](https://github.com/brugr/website) - Blog made with Hugo
 - [brugr/tavern](https://github.com/brugr/tavern) - A Minecraft modpack
 - [brugr/musicbot-docker](https://github.com/brugr/musicbot-docker) - Docker image for jagrosh&#39;s Discord MusicBot
