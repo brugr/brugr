@@ -1,15 +1,14 @@
 ### 👷 Repos with latest commits
 
-- [brugr/hikami](https://github.com/brugr/hikami) - personal os image with hyprland
 - [brugr/website](https://github.com/brugr/website) - Blog made with Hugo
 - [brugr/dotfiles](https://github.com/brugr/dotfiles) - dots!
 - [brugr/tavern](https://github.com/brugr/tavern) - A Minecraft modpack
 - [brugr/musicbot-docker](https://github.com/brugr/musicbot-docker) - Docker image for jagrosh&#39;s Discord MusicBot
 ### 🌱 My latest projects
 
-- [brugr/hikami](https://github.com/brugr/hikami) - personal os image with hyprland
 - [brugr/tavern](https://github.com/brugr/tavern) - A Minecraft modpack
 - [brugr/dotfiles](https://github.com/brugr/dotfiles) - dots!
+- [brugr/toolbox](https://github.com/brugr/toolbox) - Arch container to use with Toolbx or Distrobox
 ### ⭐ Recent Stars
 
 - [Duckonaut/split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
