@@ -11,8 +11,8 @@
 - [brugr/toolbox](https://github.com/brugr/toolbox) - Arch container to use with Toolbx or Distrobox
 ### ⭐ Recent Stars
 
+- [somepaulo/MoreWaita](https://github.com/somepaulo/MoreWaita) - A companion icon theme for Gnome Shell&#39;s Adwaita.
 - [Duckonaut/split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
 - [blue-build/cli](https://github.com/blue-build/cli) - BlueBuild&#39;s command line program that builds Containerfiles and custom images based on your recipe.yml.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [hyperion-project/hyperion.ng](https://github.com/hyperion-project/hyperion.ng) - The successor to Hyperion aka Hyperion Next Generation
-- [ublue-os/bazzite](https://github.com/ublue-os/bazzite) - Bazzite is an OCI image that serves as an alternative operating system for the Steam Deck, and a ready-to-game SteamOS-like for desktop computers, living room home theater PCs, and numerous other handheld PCs.
